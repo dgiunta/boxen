@@ -33,3 +33,20 @@ github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+# github "osx", "1.2.1"
+github "iterm2", "1.0.2"
+github "dropbox", "1.1.0"
+github "vagrant", "2.0.7"
+github "spotify", "1.0.0"
+github "airfoil", "0.0.1"
+github "ctags", "1.0.0"
+github "sublime_text_2", "1.1.0"
+github "mongodb", "1.0.0"
+github "tmux", "1.0.2"
+github "pow", "1.0.0"
+github "imagemagick", "1.2.0"
+github "zsh", "1.0.0"
+github "xquartz", "1.1.0"
+github "osx", "1.2.0"
+
